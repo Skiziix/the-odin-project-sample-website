@@ -7,3 +7,9 @@ body {
     background-color: #1F2937;
     color: #F9FAF8;
 }
+
+.display > h3 {
+    color: #1F2937;
+    font-size: 24px;
+    font-weight: bolder;
+}

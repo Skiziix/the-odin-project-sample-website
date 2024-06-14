@@ -1,15 +1,21 @@
+:root {
+    --dark-blue: #1F2937;
+    --white: #F9FAF8;
+    --button-blue: #3882F6;
+}
+
 body {
     margin: 0;
     padding: 0;
 }
 
 .nav-bar, .head-content, .footer {
-    background-color: #1F2937;
-    color: #F9FAF8;
+    background-color: var(--dark-blue);
+    color: var(--white);
 }
 
 .display > h3 {
-    color: #1F2937;
+    color: var(--dark-blue);
     font-size: 24px;
     font-weight: bolder;
 }

@@ -31,3 +31,12 @@ li {
     display: flex;
     gap: 10px;
 }
+
+.head-content {
+    display: flex;
+    justify-content: center;
+}
+
+.signup {
+    width: 25%;
+}

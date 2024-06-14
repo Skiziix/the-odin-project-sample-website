@@ -3,7 +3,7 @@ body {
     padding: 0;
 }
 
-.nav-bar, .head-content {
+.nav-bar, .head-content, .footer {
     background-color: #1F2937;
     color: #F9FAF8;
 }

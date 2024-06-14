@@ -17,3 +17,10 @@ body {
 ul, h2 {
     margin: 0;
 }
+
+li {
+    list-style-type: none;
+}
+.nav-bar {
+    display: flex;
+}

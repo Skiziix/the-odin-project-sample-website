@@ -46,3 +46,10 @@ li {
 .signup {
     width: 25%;
 }
+
+.signup > button {
+    background-color: var(--button-blue);
+    border: 2px solid var(--button-blue);
+    color: var(--white);
+    border-radius: 5%;
+}

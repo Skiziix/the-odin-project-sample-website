@@ -2,6 +2,7 @@
     --dark-blue: #1F2937;
     --white: #F9FAF8;
     --button-blue: #3882F6;
+    --quote-bg-color: #E5E7EB;
 }
 
 body {
@@ -65,4 +66,14 @@ li {
 
 .display-items {
     justify-content: space-evenly;
+}
+
+.quote {
+    background-color: var(--quote-bg-color);
+    text-align: center;
+    padding: 3%;
+}
+
+#credit {
+    font-weight: bold;
 }

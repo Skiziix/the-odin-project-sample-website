@@ -53,3 +53,16 @@ li {
     color: var(--white);
     border-radius: 5%;
 }
+
+.display, .display-items {
+    display: flex;
+}
+
+.display {
+    flex-direction: column;
+    text-align: center;
+}
+
+.display-items {
+    justify-content: center;
+}

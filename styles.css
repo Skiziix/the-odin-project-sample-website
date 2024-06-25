@@ -64,5 +64,5 @@ li {
 }
 
 .display-items {
-    justify-content: center;
+    justify-content: space-evenly;
 }

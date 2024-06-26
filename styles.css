@@ -77,3 +77,11 @@ li {
 #credit {
     font-weight: bold;
 }
+
+.foot-signup, .blue-box {
+    display: flex;
+}
+
+.foot-signup {
+    justify-content: center;
+}

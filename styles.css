@@ -87,6 +87,15 @@ li {
     justify-content: center;
 }
 
+.blue-box > button {
+    background-color: var(--button-blue);
+    border: 1.5px solid var(--white);
+    border-radius: 5px;
+    color: var(--white);
+    font-weight: bold;
+    font-size: 10px;
+}
+
 .blue-box {
     align-items: center;
     background-color: var(--button-blue);

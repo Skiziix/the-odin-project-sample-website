@@ -47,7 +47,8 @@ li {
 .head-content {
     display: flex;
     justify-content: center;
-    padding-bottom: 20px;
+    align-items: center;
+    height: 25%;
 }
 
 .signup {
@@ -67,7 +68,9 @@ li {
 
 .display {
     flex-direction: column;
+    justify-content: center;
     text-align: center;
+    height: 25%;
 }
 
 .display-items {
@@ -77,7 +80,7 @@ li {
 .quote {
     background-color: var(--quote-bg-color);
     padding: 3%;
-    height: 25%;
+    height: 15%;
     display: flex;
     justify-content: center;
     align-items: center;

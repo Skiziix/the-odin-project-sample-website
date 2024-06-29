@@ -5,6 +5,10 @@
     --quote-bg-color: #E5E7EB;
 }
 
+html {
+    height: 100%;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -72,8 +76,12 @@ li {
 
 .quote {
     background-color: var(--quote-bg-color);
-    text-align: center;
     padding: 3%;
+    height: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
 }
 
 #credit {
